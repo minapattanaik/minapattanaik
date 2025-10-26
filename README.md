@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mina-pattanaik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mrinalpattanaik@gmail.com"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Pronouns-They%2FShe-6A5ACD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pronouns-She%2FHer-6A5ACD?style=for-the-badge"/>
 </p>
 
 ---
